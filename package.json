@@ -1,0 +1,11 @@
+{
+  "name": "todo-list",
+  "version": "1.0.0",
+  "description": "Todo List App Desktop ",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Mohamed Oumaandi",
+  "license": "ISC"
+}
